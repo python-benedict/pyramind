@@ -2,7 +2,7 @@
  * nested
  */
 import java.util.Scanner;
-public class nested {
+public class pyramid {
 
     public static void main(String[] args) {
 
